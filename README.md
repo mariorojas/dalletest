@@ -1,4 +1,4 @@
-# Test script for Stable Difussion
+# Test script for DALL-E
 
 **INSTALLATION COMMANDS**
 
